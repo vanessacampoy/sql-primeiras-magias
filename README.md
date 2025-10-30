@@ -36,8 +36,10 @@ Meu propósito com ele é **revisar a base com profundidade**, fortalecer meu ra
 **scripts/**  
 Arquivos .sql organizados por assunto trabalhado no curso (SELECT, WHERE, funções, CASE, agregações, GROUP BY, HAVING, JOINs, Subqueries, CTEs e exercícios).
 
+**dataset/**  
+Bases utilizadas nas aulas: clientes, produtos, transacao e transacao_produto.
 **dados/**  
-Bases utilizadas nas aulas: clientes, produtos, transações e relações entre tabelas.
+
 
 ## Links do curso
 
